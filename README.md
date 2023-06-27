@@ -25,9 +25,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 We would like to express our gratitude to the contributors and developers of the open-source libraries and frameworks used in this project.
-
-## Contact
-
-For any questions or inquiries, please contact us at pipelineguard@example.com.
-
-Feel free to customize the README file further to include additional information specific to your project.
